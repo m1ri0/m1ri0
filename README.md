@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=c,cs,html,css,java,py,php,mysql" />
 
   <h3>Others:</h3>
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,docker,fastapi,cmake" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,docker,fastapi,cmake,wordpress" />
 </div>
   
   ##
