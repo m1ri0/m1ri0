@@ -14,7 +14,7 @@
   </ul>
   
   <h3>Languages knowledge 📚:</h3>
-  <img src="https://skillicons.dev/icons?i=c,cs,html,css,java,py,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cs,py,java,php,mysql,html,css,js" />
 
   <h3>Others:</h3>
   <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,docker,fastapi,cmake,wordpress" />
