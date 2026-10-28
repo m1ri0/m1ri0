@@ -7,6 +7,7 @@
   <h2>Topics I've been studying recently:</h2>
   <ul>
     <li>Computer Networks</li>
+    <li>LLMs and Machine Learning</li>
     <li>Cybersecurity</li>
     <li>Linux</li>
     <li>Python frameworks</li>
